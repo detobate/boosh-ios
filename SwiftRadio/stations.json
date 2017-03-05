@@ -1,0 +1,19 @@
+{
+    "station":
+    [
+     {
+     "name": "Boosh.FM",
+     "streamURL": "http://stream.boosh.fm:8000/boosh128mp3",
+     "imageURL": "http://boosh.fm/images/boosh_ios_app.png",
+     "desc": "Lo-Fi",
+     "longDesc": "Drum&Bass, Dubstep, House and Electro"
+     },
+     {
+     "name": "Boosh.FM",
+     "streamURL": "http://stream.boosh.fm:8000/boosh128mp3",
+     "imageURL": "http://boosh.fm/images/boosh_ios_app.png",
+     "desc": "Hi-Fi",
+     "longDesc": "Drum&Bass, Dubstep, House and Electro"
+     }
+    ]
+}
